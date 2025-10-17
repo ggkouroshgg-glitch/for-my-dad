@@ -1,0 +1,10 @@
+.title{
+    font-size: 100px;
+    color: crimson;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.pic{
+    display: block;
+  margin: 0 auto;
+}
